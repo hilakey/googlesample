@@ -2,4 +2,4 @@
 
 This is my about me project. It's not *everything* about me, it's a start.
 
-![Picture of Tifa]-my favorite female video game character(tifa.jpg)
+![Picture of Tifa](tifa.jpg)
